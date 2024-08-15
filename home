@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AngelLink - Connecting MENA Startups and Investors</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #003366;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background: #003366;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AngelLink</h1>
+        <p>Connecting MENA Startups and Investors</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#startups">Startups</a></li>
+            <li><a href="#investors">Investors</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h2>Welcome to AngelLink</h2>
+        <p>AngelLink is the premier platform for connecting innovative startups with visionary investors in the Middle East and North Africa region.</p>
+        
+        <h3>For Startups</h3>
+        <p>Showcase your ideas, connect with investors, and secure funding to grow your business.</p>
+        <a href="#" class="btn">List Your Startup</a>
+
+        <h3>For Investors</h3>
+        <p>Discover promising startups, diversify your portfolio, and support the MENA startup ecosystem.</p>
+        <a href="#" class="btn">Become an Investor</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 AngelLink. All rights reserved.</p>
+    </footer>
+</body>
+</html>
